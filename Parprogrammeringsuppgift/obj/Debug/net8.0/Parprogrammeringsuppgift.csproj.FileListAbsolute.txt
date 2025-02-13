@@ -1,0 +1,14 @@
+C:\Users\moham\OneDrive\Desktop\C#\Parprogrammeringsuppgift\Parprogrammeringsuppgift\bin\Debug\net8.0\Parprogrammeringsuppgift.exe
+C:\Users\moham\OneDrive\Desktop\C#\Parprogrammeringsuppgift\Parprogrammeringsuppgift\bin\Debug\net8.0\Parprogrammeringsuppgift.deps.json
+C:\Users\moham\OneDrive\Desktop\C#\Parprogrammeringsuppgift\Parprogrammeringsuppgift\bin\Debug\net8.0\Parprogrammeringsuppgift.runtimeconfig.json
+C:\Users\moham\OneDrive\Desktop\C#\Parprogrammeringsuppgift\Parprogrammeringsuppgift\bin\Debug\net8.0\Parprogrammeringsuppgift.dll
+C:\Users\moham\OneDrive\Desktop\C#\Parprogrammeringsuppgift\Parprogrammeringsuppgift\bin\Debug\net8.0\Parprogrammeringsuppgift.pdb
+C:\Users\moham\OneDrive\Desktop\C#\Parprogrammeringsuppgift\Parprogrammeringsuppgift\obj\Debug\net8.0\Parprogrammeringsuppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\C#\Parprogrammeringsuppgift\Parprogrammeringsuppgift\obj\Debug\net8.0\Parprogrammeringsuppgift.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\C#\Parprogrammeringsuppgift\Parprogrammeringsuppgift\obj\Debug\net8.0\Parprogrammeringsuppgift.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\C#\Parprogrammeringsuppgift\Parprogrammeringsuppgift\obj\Debug\net8.0\Parprogrammeringsuppgift.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\C#\Parprogrammeringsuppgift\Parprogrammeringsuppgift\obj\Debug\net8.0\Parprogrammeringsuppgift.dll
+C:\Users\moham\OneDrive\Desktop\C#\Parprogrammeringsuppgift\Parprogrammeringsuppgift\obj\Debug\net8.0\refint\Parprogrammeringsuppgift.dll
+C:\Users\moham\OneDrive\Desktop\C#\Parprogrammeringsuppgift\Parprogrammeringsuppgift\obj\Debug\net8.0\Parprogrammeringsuppgift.pdb
+C:\Users\moham\OneDrive\Desktop\C#\Parprogrammeringsuppgift\Parprogrammeringsuppgift\obj\Debug\net8.0\Parprogrammeringsuppgift.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Desktop\C#\Parprogrammeringsuppgift\Parprogrammeringsuppgift\obj\Debug\net8.0\ref\Parprogrammeringsuppgift.dll
