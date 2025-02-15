@@ -4,10 +4,8 @@
     {
         static void Main(string[] args)
         {
-            var socks = new Socks();
-            socks.RunApp();
-
-
+            SocksManager app = new SocksManager();
+            app.RunApp();
         }
     }
 }

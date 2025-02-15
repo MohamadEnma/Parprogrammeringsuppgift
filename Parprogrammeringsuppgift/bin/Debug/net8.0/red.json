@@ -1,1 +1,7 @@
-[{"Size":18,"Color":"red","Rating":5}]
+[
+  {
+    "Size": 15,
+    "Color": "Red",
+    "Rating": 5
+  }
+]

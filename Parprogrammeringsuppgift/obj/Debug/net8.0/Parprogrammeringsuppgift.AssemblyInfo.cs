@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Parprogrammeringsuppgift")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c480f99893bdf9331964dbedad1835561f1c5a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Parprogrammeringsuppgift")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Parprogrammeringsuppgift")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
